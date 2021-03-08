@@ -1,9 +1,11 @@
-function basicTeenager(age) {
-
+function basicTeenager (12 < age < 20) {
+'You are a teenager'
 }
 
-function teenager(age) {
-
+function teenager(12 < age < 20) {
+'You are a teenager'
+} else {
+  'You are not a teenager'
 }
 
 function ageChecker(age) {
